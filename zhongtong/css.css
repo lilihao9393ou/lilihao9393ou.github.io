@@ -14,19 +14,21 @@
     height: 100%;
 }
 html, body{
+    margin:0px;
+    padding: 0px;
     weight: 100%;
     height: 100%;
 }
 .page1{
-    background: url("../img/t1-bg.png") no-repeat;
+    background: url("img/t1-bg.png") no-repeat;
     background-size:100% 100%;
 }
 .page2{
-    background: url("../img/t2-bg.png") no-repeat;
+    background: url("img/t2-bg.png") no-repeat;
     background-size:100% 100%;
 }
 .page3{
-    background: url("../img/t3-bg.png") no-repeat;
+    background: url("img/t3-bg.png") no-repeat;
     background-size:100% 100%;
 }
 .page4{
@@ -48,7 +50,7 @@ html, body{
     background-color: #5FBCD8;
 }
 .page10{
-    background: url("../img/t10-bg.png") no-repeat;
+    background: url("img/t10-bg.png") no-repeat;
     background-size:100% 100%;
 }
 .swiper-container {

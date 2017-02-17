@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6db11c34-1828-468f-ae6c-0afcdf666c67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhongtong/enter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zhongtong/bower_components/css.css" afterPath="$PROJECT_DIR$/zhongtong/css.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhongtong/bower_components/swiper/dist/js/swiper.animate1.0.2.min.js" afterPath="$PROJECT_DIR$/zhongtong/bower_components/swiper/dist/js/swiper.animate1.0.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhongtong/index.html" afterPath="$PROJECT_DIR$/zhongtong/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhongtong/music.js" afterPath="$PROJECT_DIR$/zhongtong/music.js" />
-    </list>
+    <list default="true" id="6db11c34-1828-468f-ae6c-0afcdf666c67" name="Default" comment="" />
     <ignored path="lilihao9393ou.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zhongtong/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="267">
+              <caret line="77" column="34" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -262,18 +254,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487305507984</updated>
-      <workItem from="1487305510456" duration="12222000" />
+      <workItem from="1487305510456" duration="12345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12222000" />
+    <option name="totallyTimeSpent" value="12345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1316" height="772" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27621284" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27621284" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -426,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhongtong/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="267">
+          <caret line="77" column="34" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
           <folding />
         </state>
       </provider>

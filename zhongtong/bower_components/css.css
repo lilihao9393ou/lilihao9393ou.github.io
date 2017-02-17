@@ -1,0 +1,262 @@
+#img_music{
+    border-radius: 50%;
+    animation:run 3s 0s linear infinite;
+}
+@keyframes run {
+    from{
+        transform:rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+.swiper-container {
+    height: 100%;
+}
+html, body{
+    weight: 100%;
+    height: 100%;
+}
+.page1{
+    background: url("../img/t1-bg.png") no-repeat;
+    background-size:100% 100%;
+}
+.page2{
+    background: url("../img/t2-bg.png") no-repeat;
+    background-size:100% 100%;
+}
+.page3{
+    background: url("../img/t3-bg.png") no-repeat;
+    background-size:100% 100%;
+}
+.page4{
+    background-color: red;
+}
+.page5{
+    background-color: red;
+}
+.page6{
+    background-color: #7876B6;
+}
+.page7{
+    background-color: #147C79;
+}
+.page8{
+    background-color: #619A51;
+}
+.page9{
+    background-color: #5FBCD8;
+}
+.page10{
+    background: url("../img/t10-bg.png") no-repeat;
+    background-size:100% 100%;
+}
+.swiper-container {
+    height: 100%;
+}
+.music{
+    position: absolute;
+    z-index: 9;
+    width:10%;
+    height:width;
+    top:5%;
+    right:5%;
+}
+.icon_up{
+    position: absolute;
+    z-index: 9;
+    width:20%;
+    height:5%;
+    bottom:1%;
+    right:40%;
+    animation:slideOutUp 1s 0s linear infinite
+}
+.img1{
+    position: absolute;
+    width:80%;
+    height:60%;
+    top:15%;
+    left:10%;
+}
+.img12{
+    position: absolute;
+    width:90%;
+    height:40%;
+    top:20%;
+    left:5%;
+}
+.img2{
+    position: absolute;
+    width:30%;
+    height:50%;
+    top:10%;
+    left:35%;
+}
+.img22{
+    position: absolute;
+    width:40%;
+    height:20%;
+    bottom:15%;
+    left:30%;
+}
+.img32{
+    position: absolute;
+    width:40%;
+    height:30%;
+    top:10%;
+    left:30%;
+}
+.img3{
+    position: absolute;
+    width:80%;
+    height:40%;
+    bottom:10%;
+    left:10%;
+}
+.img4{
+     position: absolute;
+     width:90%;
+     height:20%;
+     top:10%;
+     left:5%;
+ }
+.img41{
+    position: absolute;
+    width:90%;
+    height:20%;
+    top:40%;
+    left:5%;
+}
+.img42{
+    position: absolute;
+    width:90%;
+    height:20%;
+    bottom:10%;
+    left:5%;
+}
+.img5{
+    position: absolute;
+    width:80%;
+    height:60%;
+    top:0%;
+    left:10%;
+}
+.img51{
+    position: absolute;
+    width:60%;
+    height:40%;
+    bottom:40%;
+    left:20%;
+}
+.img52{
+    position: absolute;
+    width:60%;
+    height:20%;
+    bottom:15%;
+    left:20%;
+}
+.img6{
+    position: absolute;
+    width:80%;
+    height:50%;
+    top:10%;
+    left:10%;
+}
+.img61{
+    position: absolute;
+    width:80%;
+    height:40%;
+    top:15%;
+    left:10%;
+}
+.img62{
+    position: absolute;
+    width:60%;
+    height:20%;
+    bottom:15%;
+    left:20%;
+}
+.img7{
+    position: absolute;
+    width:100%;
+    height:60%;
+    top:0%;
+    left:0%;
+}
+.img71{
+    position: absolute;
+    width:60%;
+    height:40%;
+    bottom:40%;
+    left:20%;
+}
+.img72{
+    position: absolute;
+    width:60%;
+    height:20%;
+    bottom:15%;
+    left:20%;
+}
+.img8{
+    position: absolute;
+    width:90%;
+    height:50%;
+    top:10%;
+    left:5%;
+}
+.img81{
+    position: absolute;
+    width:40%;
+    height:50%;
+    top:10%;
+    left:30%;
+}
+.img82{
+    position: absolute;
+    width:60%;
+    height:20%;
+    bottom:15%;
+    left:20%;
+}
+.img9{
+    position: absolute;
+    width:100%;
+    height:100%;
+    top:0%;
+    left:0%;
+}
+.img91{
+    position: absolute;
+    width:100%;
+    height:30%;
+    bottom:0%;
+    left:0%;
+}
+.img10{
+    position: absolute;
+    width:100%;
+    height:30%;
+    bottom:50%;
+    left:0%;
+}
+.img103{
+    position: absolute;
+    width:30%;
+    height:5%;
+    bottom:10%;
+    left:35%;
+}
+.img104{
+    position: absolute;
+    width:30%;
+    height:5%;
+    bottom:20%;
+    left:35%;
+}
+.img102{
+    position: absolute;
+    width:30%;
+    height:5%;
+    bottom:30%;
+    left:35%;
+}

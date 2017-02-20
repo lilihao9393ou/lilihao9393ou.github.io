@@ -10,6 +10,8 @@
   "dependencies": {
     "bower": "^1.8.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "url-loader": "^0.5.7"
+  },
   "description": ""
 }
